@@ -1,0 +1,4 @@
+paddleocr
+pillow
+numpy
+opencv-python
